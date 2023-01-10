@@ -96,48 +96,49 @@ Brief history
 * Jul 2021 - Reached 1M+ pulls on Docker Hub
 
 
-Check it out
-------------
 
-https://public.tenant.kiwitcms.org
+ out
+----
 
-
-Documentation
--------------
-
-http://kiwitcms.readthedocs.org/
+public.tenant.kiwitcms.org
 
 
-Installation
-------------
+ation
+-----
 
-See
-`Running Kiwi TCMS as a Docker container <http://kiwitcms.readthedocs.io/en/latest/installing_docker.html>`_.
-
-
-Language support
-----------------
-
-- `Supported languages <https://crowdin.com/project/kiwitcms>`_
-- `Request new language <https://github.com/kiwitcms/Kiwi/issues/new?title=Request+new+language:+...&body=Please+enable+...+language+in+Crowdin>`_
-- `Translation guide <https://kiwitcms.readthedocs.io/en/latest/contribution.html#translation>`_
+iwitcms.readthedocs.org/
 
 
-Help us improve Kiwi TCMS
--------------------------
-
-- Click the `Star` button at https://github.com/kiwitcms/Kiwi/stargazers
-- Click the star icon at https://hub.docker.com/r/kiwitcms/kiwi/
-- Follow @KiwiTCMS at https://twitter.com/KiwiTCMS
-- Subscribe to our
-  `newsletter <https://kiwitcms.us17.list-manage.com/subscribe/post?u=9b57a21155a3b7c655ae8f922&id=c970a37581>`_
-- Send us testimonials and feedback about how your team is using Kiwi TCMS
-- Donate €5 or more via https://opencollective.com/kiwitcms#section-contribute
-- Become a `contributor <http://kiwitcms.readthedocs.org/en/latest/contribution.html>`_
+tion
+----
 
 
-Support
--------
+ Kiwi TCMS as a Docker container <http://kiwitcms.readthedocs.io/en/latest/installing_docker.html>`_.
 
-Commercial support for Kiwi TCMS is also available.
-For more information see http://kiwitcms.org.
+
+ support
+--------
+
+rted languages <https://crowdin.com/project/kiwitcms>`_
+st new language <https://github.com/kiwitcms/Kiwi/issues/new?title=Request+new+language:+...&body=Please+enable+...+language+in+Crowdin>`_
+lation guide <https://kiwitcms.readthedocs.io/en/latest/contribution.html#translation>`_
+
+
+improve Kiwi TCMS
+-----------------
+
+the `Star` button at https://github.com/kiwitcms/Kiwi/stargazers
+the star icon at https://hub.docker.com/r/kiwitcms/kiwi/
+ @KiwiTCMS at https://twitter.com/KiwiTCMS
+ibe to our
+etter <https://kiwitcms.us17.list-manage.com/subscribe/post?u=9b57a21155a3b7c655ae8f922&id=c970a37581>`_
+s testimonials and feedback about how your team is using Kiwi TCMS
+ €5 or more via https://opencollective.com/kiwitcms#section-contribute
+ a `contributor <http://kiwitcms.readthedocs.org/en/latest/contribution.html>`_
+
+
+
+
+
+al support for Kiwi TCMS is also available.
+ information see http://kiwitcms.org.
